@@ -5,4 +5,4 @@
  Simple Android Application to Implement GreenDao using Android Studio
  
  Please read my following tutorial for clear understanding.
- [How to use GreenDao in android studio?] (www.arjunsk.com/android/use-greendao-android-studio/)
+ [How to use GreenDao in android studio?] (www.arjunsk.com/android/use-greendao-android-studio)
